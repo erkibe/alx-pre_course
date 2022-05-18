@@ -1,4 +1,1 @@
-touch file_to_ignore
-git status
-:wq
-C-x
+~
